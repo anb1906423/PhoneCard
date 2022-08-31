@@ -1,0 +1,263 @@
+20220723	19:11:48	100b4daf-5a2b-4b6d-bbb9-d45b2d423602	Error: ENOENT: no such file or directory, stat 'C:\Users\pc\Desktop\WORKSPACE\PROGRAM\Card-Project-Final\Card-FE\views\404.html'
+20220723	19:11:49	55718267-305d-4bfb-a317-178c71d23d9d	Error: ENOENT: no such file or directory, stat 'C:\Users\pc\Desktop\WORKSPACE\PROGRAM\Card-Project-Final\Card-FE\views\404.html'
+20220723	19:12:31	de0d5236-0672-4e47-b1c2-25590d4d745a	Error: ENOENT: no such file or directory, stat 'C:\Users\pc\Desktop\WORKSPACE\PROGRAM\Card-Project-Final\Card-FE\views\404.html'
+20220723	19:14:53	cd523ade-3467-4977-aa40-3f938e9f887f	Error: ENOENT: no such file or directory, stat 'C:\Users\pc\Desktop\WORKSPACE\PROGRAM\Card-Project-Final\Card-FE\views\404.html'
+20220723	19:17:14	86631c19-26cf-4c7e-8792-9bdf5e60dfdb	Error: ENOENT: no such file or directory, stat 'C:\Users\pc\Desktop\WORKSPACE\PROGRAM\Card-Project-Final\Card-FE\views\404.html'
+20220723	19:18:19	ba6a3ef5-5c92-46d4-8c9c-c1c8b5fe8189	Error: ENOENT: no such file or directory, stat 'C:\Users\pc\Desktop\WORKSPACE\PROGRAM\Card-Project-Final\Card-FE\views\404.html'
+20220723	19:18:23	c1da6bd8-8304-41dd-b77c-51896c3f5cd6	Error: ENOENT: no such file or directory, stat 'C:\Users\pc\Desktop\WORKSPACE\PROGRAM\Card-Project-Final\Card-FE\views\404.html'
+20220723	19:18:35	a607864c-9d9b-4a88-ad8b-d74e1c04349d	Error: ENOENT: no such file or directory, stat 'C:\Users\pc\Desktop\WORKSPACE\PROGRAM\Card-Project-Final\Card-FE\views\404.html'
+20220724	08:36:34	cce70c1b-c2f5-4c6a-9e41-2df5ad26f0e6	SyntaxError: Unexpected string in JSON at position 44
+20220724	08:36:40	e8fad96f-e8c3-4a61-8163-bd8d40aae28f	SyntaxError: Unexpected string in JSON at position 49
+20220724	11:02:36	30ed7afc-0451-4615-aef9-a461be1eb9db	Error: Địa chỉ email không hợp lệ!
+20220724	11:02:46	44c23478-4d18-429f-8b6f-bbaeee4451aa	Error: Mật khẩu không hợp lệ!
+20220724	11:02:54	07cf3361-b720-4abf-96e1-1bc8ed0619de	Error: Mật khẩu không hợp lệ!
+20220724	11:03:19	0e74dea2-10bf-4d5e-99d2-bad88f3cec14	Error: Mật khẩu không hợp lệ!
+20220724	11:03:23	dacc46af-18c4-4c36-89a6-58d767d11c93	Error: Mật khẩu không hợp lệ!
+20220724	11:03:29	23c9c0e8-bdaf-49f6-b13e-824bbc783bd5	Error: Mật khẩu không hợp lệ!
+20220724	11:03:32	74214c75-63ac-4a91-af67-babf49ec75c6	Error: Mật khẩu không hợp lệ!
+20220724	11:14:24	e8da9518-ce7c-4c1d-9b8d-41a0dec478d7	Error: Mật khẩu không hợp lệ!
+20220724	11:15:02	510c28ee-3d30-4950-90ce-8789c309b4af	Error: undefined
+20220724	11:15:12	21dfaca7-ee63-4ecc-9137-69856d6fd810	Error: undefined
+20220724	11:16:54	a24df6ac-850f-4202-866a-7dcba666328b	Error: undefined
+20220724	11:16:59	7395fe3a-1c2a-4ee8-8f37-ebb1b9f4dbca	Error: Địa chỉ email không hợp lệ!
+20220724	11:18:51	956d91c8-5996-464b-bfc5-f181dcfe9f05	Error: undefined
+20220724	11:19:02	0ec0528c-1ef0-47ed-aca1-c656da389148	Error: Địa chỉ email không hợp lệ!
+20220724	11:19:17	211f979c-fecb-4ffb-b8c9-aa1e920275f9	Error: Địa chỉ email không hợp lệ!
+20220724	11:19:23	2f0b2c03-c20b-4efc-b806-7955941251df	Error: Tên tài khoản không hợp lệ hoặc chứa ký tự đặc biệt!
+20220724	11:22:42	6c6d363b-59cf-4cc2-98be-ce65b782e836	Error: undefined
+20220724	11:30:23	4058f6f5-e823-47bf-b8b9-7c353954f7ce	Error: Địa chỉ email không hợp lệ!
+20220724	19:24:56	bd51b299-baf2-43db-9ed9-b02258be3fb8	Error: Địa chỉ email không hợp lệ!
+20220724	19:26:59	e06f66dd-4fb2-484b-bddd-df1192f683a6	Error: undefined
+20220724	19:45:44	a25ab654-79bb-4b8a-b1aa-60e324f00919	Error: Tên tài khoản không hợp lệ hoặc chứa ký tự đặc biệt!
+20220724	19:45:54	026d30d2-a942-42f7-a1cf-534008b9b50e	Error: Địa chỉ email đã được sử dụng!
+20220724	19:51:44	1a86d649-f948-4fc9-936f-963bd009103a	Error: undefined
+20220724	19:51:49	95dd1b5d-dd64-459d-b9b0-c3eef23c4fd3	Error: undefined
+20220724	19:53:02	7a1ce7f6-901e-4e3e-87e8-d699e5765e43	Error: Địa chỉ email đã được sử dụng!
+20220724	19:55:40	b7c2df9f-4e39-4c53-9ff4-f5332821a9d2	Error: Tên tài khoản đã được sử dụng!
+20220724	19:59:24	3c336107-bca6-479f-be8f-40ef0b9562ae	Error: Tên tài khoản đã được sử dụng!
+20220724	19:59:26	4931d94f-18ae-42ea-af47-bfe7656c3277	Error: Địa chỉ email đã được sử dụng!
+20220724	19:59:34	5c09c477-48ec-414a-9bb6-fc675bd89cdd	Error: Mật khẩu không hợp lệ!
+20220724	20:00:07	3dca4668-b651-4ed0-8d60-eb6ddd42a108	Error: Mật khẩu không hợp lệ!
+20220724	20:00:11	784940a2-f59a-47d9-869a-f51903f63787	Error: Tên tài khoản đã được sử dụng!
+20220724	20:00:16	050dd8fa-6911-4827-9cd4-1bfdee2e878f	Error: Địa chỉ email đã được sử dụng!
+20220724	20:00:22	4b4b60db-28e6-426a-a1bb-375b19d6c1e4	Error: Mật khẩu không hợp lệ!
+20220724	20:05:43	e3923814-28b7-4410-a782-ddf0e1105705	Error: Tên tài khoản đã được sử dụng!
+20220724	20:05:47	d3c5cf8d-24f6-4eeb-9c94-007f1413572b	Error: Địa chỉ email đã được sử dụng!
+20220724	20:06:43	922d62ee-aa83-4ad8-9c20-3e517f7e4326	Error: Tên tài khoản không hợp lệ hoặc chứa ký tự đặc biệt!
+20220724	20:08:08	8d8c6175-a741-4f04-a802-f946ea118f29	Error: Địa chỉ email đã được sử dụng!
+20220724	20:08:31	8a6e0700-a614-47b6-a2ed-a44247316746	Error: Tên tài khoản không hợp lệ hoặc chứa ký tự đặc biệt!
+20220724	20:26:39	0f5d292d-b687-45c0-aded-eabf0f741759	Error: Tên tài khoản phải có ít nhất 5 ký tự và không chứa ký tự đặc biệt!
+20220724	20:26:43	5a75ccf4-beca-4225-a4e8-11327914fa51	Error: Địa chỉ email đã được sử dụng!
+20220724	20:40:47	8d57ec52-e2c3-4407-8fcf-4a552ab68709	Error: Địa chỉ email đã được sử dụng!
+20220724	20:40:59	8d063260-6ab4-47ef-be28-0099f3f4ef2b	Error: Tên tài khoản đã được sử dụng!
+20220724	20:41:12	af2860e0-f0db-4bfe-884f-287b6ead8cb4	Error: Tên tài khoản đã được sử dụng!
+20220724	20:41:16	a25e2313-edba-4180-a380-5679ec74341e	Error: Địa chỉ email đã được sử dụng!
+20220724	20:43:50	82eb1ff9-8ae4-4961-9e1c-ab9d2e455a73	Error: Tên tài khoản đã được sử dụng!
+20220724	20:43:53	25c6bee4-dfec-47e4-a461-08d4f335ff0d	Error: Địa chỉ email đã được sử dụng!
+20220724	20:50:54	ca2d336b-a226-4ebc-ab45-6757f748e1bc	Error: Địa chỉ email đã được sử dụng!
+20220724	20:51:20	6da9b4de-f906-4e9b-b191-690ba8fd3037	SyntaxError: Unexpected token } in JSON at position 53
+20220724	20:55:17	783a592e-5224-4a39-afb3-b81c02f9e5b4	Error: Email address is not valid!
+20220724	20:55:22	92f850f4-6d0b-463e-8a70-cea0d1648461	Error: Email address is not valid!
+20220724	20:55:33	edf67779-0762-4ebc-8814-1d5aadc18859	Error: Địa chỉ email đã được sử dụng!
+20220724	20:55:46	69328f1a-8c94-44aa-af04-268e0d95b255	Error: Tên tài khoản đã được sử dụng!
+20220724	20:55:48	2b5e5aa7-4fb8-4558-80bf-7437fc223840	Error: Địa chỉ email đã được sử dụng!
+20220725	08:51:51	85806e5d-f105-4df1-a0ca-f20f756b12f6	SyntaxError: Unexpected token } in JSON at position 134
+20220725	08:51:56	f6ca618c-0818-48fa-984b-bc8a091e2cb2	Error: Tên tài khoản đã được sử dụng!
+20220725	08:52:01	39748d65-7586-4b2a-a5e9-c458de842231	Error: Địa chỉ email đã được sử dụng!
+20220725	09:07:15	c1d5686d-5d46-463e-94de-5eefc4ef91cb	Error: Tên tài khoản đã được sử dụng!
+20220725	09:07:20	29d81009-892b-459c-8ffd-d2dd7af979dd	Error: Địa chỉ email đã được sử dụng!
+20220725	09:09:53	6056e282-212a-45dd-a33c-884a9b24e473	Error: Tên tài khoản đã được sử dụng!
+20220725	09:11:09	666f65b3-9b8c-40cd-8c71-8675e2db4df9	Error: Tên tài khoản đã được sử dụng!
+20220725	09:31:35	427cb656-4e86-47a4-8799-0a2a37899632	Error: Tên tài khoản đã được sử dụng!
+20220728	18:28:51	240897fe-4308-4f62-8375-209082e4aed5	Error: Email address is not valid!
+20220728	18:29:04	86b1b0cb-af80-499b-88ce-3769e34f7ebf	SyntaxError: Unexpected string in JSON at position 61
+20220728	18:29:08	716c0682-d23f-4bc9-8ac6-492448f92bf6	Error: Email address is not valid!
+20220728	18:29:14	d86213a1-746d-49f0-ab72-2c5db2641596	Error: Email address is not valid!
+20220728	18:29:21	58541b36-df7e-42bb-a59c-6d52a98bea11	Error: Email address is not valid!
+20220728	18:29:32	05f0a0e8-5d97-46f5-95ab-3392c7ef2158	Error: Email address is not valid!
+20220728	18:29:36	b2e36d23-3ef0-4dd8-bd21-facb7cba32e5	Error: Email address is not valid!
+20220728	18:29:43	79791722-6638-4a4f-824e-2671c003c10b	Error: Tên tài khoản đã được sử dụng!
+20220728	19:24:42	fc78b62e-1cad-4309-9521-bee0955d0914	Error: Email address is not valid!
+20220728	19:33:56	9a88bd62-a4a1-45bc-9bae-c3a84e42a23d	Error: Email address is not valid!
+20220728	19:34:19	2cef904c-529e-4115-bc73-2d1c79cae87c	Error: Email address is not valid!
+20220728	19:34:34	c1c6b263-b764-483d-9f2b-1500e39d8ef3	Error: Email address is not valid!
+20220728	19:34:34	537eab58-60d3-4eff-a385-7ba6a24490aa	Error: Email address is not valid!
+20220728	19:34:35	526a96ca-3753-460b-ba8a-89647d426582	Error: Email address is not valid!
+20220728	19:35:08	e8f42228-beb2-4bbd-bf00-739b4730b47f	Error: Email address is not valid!
+20220728	19:35:35	d210e218-e1d1-4aeb-a832-87afd402ca1f	Error: Email address is not valid!
+20220728	19:38:31	1a90c15d-a37b-45b4-9c2a-852e70dfb591	Error: Email address is not valid!
+20220728	19:38:58	645f4e22-7e57-46f5-941b-4b2ea691105d	Error: Email address is not valid!
+20220728	19:39:51	e233a46e-3242-4ea3-82b6-d6314cd1593a	Error: Email address is not valid!
+20220728	19:42:53	1efc0d8c-057e-4b8e-a80a-2a1547757ce3	Error: Not allowed by CORS
+20220728	19:43:33	e5e9f1b7-e220-42f2-a8e4-b5e68a0ac8ea	Error: Email address is not valid!
+20220728	19:43:35	a2b8a3c8-7708-402d-b0fe-432722b648d3	Error: Email address is not valid!
+20220728	19:46:39	eb265ab4-16ff-454d-b202-f4054a7cea53	Error: Email address is not valid!
+20220728	19:49:41	7510cb48-7374-4ab2-a356-47e738bd7d50	Error: Email address is not valid!
+20220728	19:50:59	706f7a9e-09a2-4262-8261-244067556ad7	Error: Email address is not valid!
+20220728	20:18:52	51c99393-c6c9-4214-9c00-0f07f0a49d12	Error: Email address is not valid!
+20220728	20:19:30	51cda6d1-8dd3-4b1f-a3ad-bcb01540cc64	Error: Email address is not valid!
+20220728	20:20:46	aaef85a8-f16c-46a7-a7d6-7b19cf9efb57	Error: Email address is not valid!
+20220728	20:20:59	a72fed5c-cd2b-4cbf-a689-46a729d02aa4	Error: Email address is not valid!
+20220728	20:35:59	779c08fb-c0c9-4df7-993c-79e1b62c9d96	Error: Email address is not valid!
+20220728	20:45:37	1006b5e7-8bf0-40f5-85a7-fffc55bdac12	Error: Email address is not valid!
+20220728	20:46:47	fd331363-9a0b-49df-804e-eeaaf72c6b1d	Error: Email address is not valid!
+20220728	21:01:09	05122eef-169d-43cc-93b1-e70ddf9212a9	Error: Địa chỉ email đã được sử dụng!
+20220728	21:01:13	dac06eac-78ba-42cb-841e-a5335dfe8747	Error: Địa chỉ email đã được sử dụng!
+20220728	21:01:19	470cc5f0-8e31-4618-9fcc-68921d93d39e	Error: Địa chỉ email đã được sử dụng!
+20220728	21:01:23	a4343a5b-5ed0-4fbe-b487-c85063392b45	Error: Địa chỉ email đã được sử dụng!
+20220728	21:01:27	b75210e9-5609-426a-93b6-9baa1bc26b84	Error: Địa chỉ email đã được sử dụng!
+20220728	21:02:23	4321758c-33df-4b9d-afe0-3e60e203d7ac	Error: Email address is not valid!
+20220728	21:02:29	131be0a3-d198-4d9b-82bd-b7487991271e	Error: Địa chỉ email đã được sử dụng!
+20220728	21:02:41	2cbcb4e8-68c5-4d7f-bc8e-775d4f7737bc	Error: Địa chỉ email đã được sử dụng!
+20220728	21:02:50	661c3320-0612-4526-ae1e-bc0a261e49d0	Error: Địa chỉ email đã được sử dụng!
+20220728	21:03:39	27dcbf02-fb67-4082-97c6-265a35d07265	Error: Địa chỉ email đã được sử dụng!
+20220728	21:03:45	bca50934-b640-49ba-adc4-4b11e27fde85	Error: Địa chỉ email đã được sử dụng!
+20220728	21:04:03	d7a65636-55d5-4f03-8c86-638fd1358d3a	Error: Email address is not valid!
+20220728	21:04:09	27c5a4b5-a914-4dfe-9561-32079a047f7b	Error: Email address is not valid!
+20220728	21:04:16	c86b2686-1882-4aa7-947a-31768b122d9e	Error: Địa chỉ email đã được sử dụng!
+20220728	21:04:30	17c2d08b-e9bf-4704-87b4-762c92d6a102	Error: Địa chỉ email đã được sử dụng!
+20220728	21:05:23	2c6a3fd1-2779-4268-96ad-f1c10a15fbf4	Error: Tên tài khoản đã được sử dụng!
+20220728	21:05:33	a9d9f06c-e63b-4e4c-9093-402aa07444c1	Error: Địa chỉ email đã được sử dụng!
+20220728	21:05:38	8051231b-3791-4cfb-bf5a-131f0e32a70d	Error: Địa chỉ email đã được sử dụng!
+20220728	21:05:42	a1a004a7-f162-4762-8329-6ae3b0dbdbca	Error: Địa chỉ email đã được sử dụng!
+20220728	21:05:52	4260d312-db14-4ad4-b85b-aff92cf1c738	Error: Email address is not valid!
+20220728	21:05:59	e1d77252-7cea-4321-996b-2c978c51a799	Error: Địa chỉ email đã được sử dụng!
+20220728	21:07:53	cfe68d24-1b91-4acb-8811-d1c8ad96fee4	Error: Tên tài khoản đã được sử dụng!
+20220728	21:07:56	c43f014b-cbd1-4301-969e-cde2d56773b7	Error: Địa chỉ email đã được sử dụng!
+20220728	21:07:59	624d1b64-b2cc-40b7-8d71-739b1a6fb821	Error: Địa chỉ email đã được sử dụng!
+20220728	21:08:03	66212808-a392-4aae-a887-821abd6d1aa9	Error: Địa chỉ email đã được sử dụng!
+20220728	21:08:06	a0389ac1-ea00-4f05-bc58-687ae447d5d4	Error: Địa chỉ email đã được sử dụng!
+20220729	08:07:37	2f3e1f5d-8fd7-441f-958a-5e6ecf6def93	Error: Địa chỉ email đã được sử dụng!
+20220729	08:07:43	63e21c34-e1c6-4d5f-a013-0a4ffa70948f	Error: Địa chỉ email đã được sử dụng!
+20220729	08:07:48	8e69ef84-7191-4568-ac32-0b9eae10dce3	Error: Tên tài khoản đã được sử dụng!
+20220729	08:11:51	f2d1d8a6-0990-4a2d-a690-8adeca8f1086	Error: Tên tài khoản đã được sử dụng!
+20220729	08:11:56	73cb7cec-8d20-4b99-819b-f9b3933d49bb	Error: Địa chỉ email đã được sử dụng!
+20220729	08:12:03	b06def6e-03a6-4c11-ae73-286ceb5005ce	Error: Địa chỉ email đã được sử dụng!
+20220729	08:12:07	bae128b3-513a-437f-9cf2-703af67763a8	Error: Địa chỉ email đã được sử dụng!
+20220729	08:12:59	529bdbd7-4841-4d81-82b4-b0c0636540bd	Error: Email address is not valid!
+20220729	08:13:05	677ef1d1-fbfe-499d-819c-e201a22665ef	Error: Địa chỉ email đã được sử dụng!
+20220729	08:15:37	20bb2456-4f72-4f9c-87bf-06d92f6713b1	Error: Tên tài khoản đã được sử dụng!
+20220729	08:15:50	63664a28-b5a7-46d7-9834-823efc6ee6fb	Error: Tên tài khoản đã được sử dụng!
+20220729	08:16:05	769e6af0-e6de-49f8-8d1f-9918965b95c0	Error: Địa chỉ email đã được sử dụng!
+20220729	08:17:01	b97387ad-ec26-4844-b956-2ae8f4c8215b	Error: Địa chỉ email đã được sử dụng!
+20220729	08:17:04	4fc101b0-0651-4bd3-b76c-34fcbf478595	Error: Địa chỉ email đã được sử dụng!
+20220729	08:24:21	9e2ec607-8491-4609-b589-fa9e6bfa98fb	Error: Tên tài khoản đã được sử dụng!
+20220729	08:24:25	da1428d9-57cf-4831-b691-b9881f89e8d3	Error: Địa chỉ email đã được sử dụng!
+20220729	08:27:06	255b0a03-20bb-4512-aa22-017de4355689	SyntaxError: Unexpected token A in JSON at position 123
+20220729	08:27:21	2d271b16-f3b6-4024-b9f3-34e7f593094c	Error: Tên tài khoản đã được sử dụng!
+20220729	08:27:24	c5583e3f-aca0-4089-817c-380c50c23d0c	Error: Địa chỉ email đã được sử dụng!
+20220729	08:28:32	41859ede-30e8-4bf3-b886-0cc51175d250	Error: Tên tài khoản đã được sử dụng!
+20220729	08:28:39	1790ac23-68fd-47e1-a7bc-f1d585a255bf	Error: Địa chỉ email đã được sử dụng!
+20220729	08:29:13	c941d456-145a-4ef4-abf7-503ad08afe5e	Error: Email address is not valid!
+20220729	09:31:00	146814bd-6a9a-4ece-82b1-ccb829c8c8ad	Error: Địa chỉ email đã được sử dụng!
+20220729	09:31:09	b9c5728a-009e-4fa3-8556-ae98e99d4662	Error: Địa chỉ email đã được sử dụng!
+20220729	09:31:23	10d1eb11-098a-4807-83d6-bb7768dee68e	Error: Username is not valid!
+20220729	14:53:55	52cf9f29-0e8c-433e-94ab-a0b7dc4353e5	Error: Email address is not valid!
+20220729	14:58:37	788a6261-ae24-415b-9abf-6749d20fbc82	Error: Email address is not valid!
+20220729	15:23:15	0b400431-9b30-412a-a407-5363dce2d7d1	Error: Email address is not valid!
+20220729	15:23:24	e915a399-c94f-454f-ba76-381f7c58ced3	Error: Email address is not valid!
+20220729	15:23:59	8beead64-188d-4a52-9675-ad63787d067f	Error: Email address is not valid!
+20220729	15:24:09	be6605eb-b1a8-43cf-87c1-5e521c6d4222	Error: Email address is not valid!
+20220729	20:00:31	bfc4e9a2-ba0e-4e30-90cd-49e3f3d6e092	Error: Tên tài khoản đã được sử dụng!
+20220729	20:00:42	fbd21ed1-46c8-4195-9db4-120b299b21b4	Error: Địa chỉ email đã được sử dụng!
+20220729	20:06:02	395f3e70-7dcc-45ab-9773-9917d42b4ecb	Error: Tên tài khoản đã được sử dụng!
+20220729	20:13:59	ccaedbb5-7535-4d40-af97-edaa931d22cc	Error: Tên tài khoản đã được sử dụng!
+20220729	20:15:02	22c32559-33ad-49a4-a660-7049b8c38b1f	Error: Tên tài khoản đã được sử dụng!
+20220729	20:15:07	ec6d2730-65a4-4e01-95c2-1ac72ef7974a	Error: Tên tài khoản đã được sử dụng!
+20220729	20:15:10	fa345d98-b7c9-4ffc-8352-424df4db758a	Error: Tên tài khoản đã được sử dụng!
+20220729	20:28:30	aade3a4d-82dc-40f7-91c4-dc9c5c363acb	Error: Tên tài khoản đã được sử dụng!
+20220729	20:35:27	ec036f2c-0794-4096-82c4-ce3092fdf95c	Error: Tên tài khoản đã được sử dụng!
+20220729	20:35:33	1873d745-e388-4a0c-a270-1502ec318bc6	Error: Địa chỉ email đã được sử dụng!
+20220729	20:38:06	97197910-458e-4467-9cc4-b5323b82f41b	Error: Tên tài khoản đã được sử dụng!
+20220729	21:01:37	c07f302e-603c-4f09-bd79-b21a44f9396f	Error: Tên tài khoản đã được sử dụng!
+20220729	21:06:49	8af3b10b-493d-41a4-aff8-c64cabd4fd41	Error: Tên tài khoản đã được sử dụng!
+20220730	14:30:21	6188e004-119e-4e75-9171-434532fd2568	Error: Tên tài khoản đã được sử dụng!
+20220731	21:02:43	b832a731-0835-4d4e-a580-69c313d5f44f	Error: Tên tài khoản đã được sử dụng!
+20220731	21:03:10	dfd1bd7b-4bf8-4cff-b62d-fa41a2a07ca6	Error: Tên tài khoản đã được sử dụng!
+20220801	14:47:18	5f1cdd56-2cb3-41f3-a553-5cdc34dd310b	Error: Tên tài khoản đã được sử dụng!
+20220801	14:56:05	b2cbab42-bee0-43a5-b79e-b2f4a1ab2920	Error: Tên tài khoản đã được sử dụng!
+20220801	14:56:14	eb760d80-f8b5-4cb2-b079-57765ab1c219	Error: Tên tài khoản đã được sử dụng!
+20220801	15:27:10	6a6c6554-c876-463c-8f26-cf46ae404c7a	Error: Tên tài khoản đã được sử dụng!
+20220801	15:28:20	84da2bf0-62bf-42fa-9199-33d387dfd8e2	Error: Tên tài khoản đã được sử dụng!
+20220801	15:34:18	2a7795e8-34ef-465e-9155-d02046645db8	Error: Tên tài khoản đã được sử dụng!
+20220801	15:35:06	e85cabf4-5813-425d-80a3-f1435853e00f	Error: Tên tài khoản đã được sử dụng!
+20220801	15:37:30	a67d4154-5337-4ef7-bea3-588d983f35d8	Error: Tên tài khoản đã được sử dụng!
+20220801	15:38:57	18ed702a-012c-401d-841a-7c1a8d71c5ea	Error: Tên tài khoản đã được sử dụng!
+20220801	15:39:15	18794442-f0b2-4d5f-8b44-ae270f223a7b	Error: Tên tài khoản đã được sử dụng!
+20220801	15:39:17	71343599-4399-4dd4-ace9-c263902bff34	Error: Tên tài khoản đã được sử dụng!
+20220801	15:43:06	8ce19881-44dd-4a6a-873c-b1e088d6120a	Error: Email address is not valid!
+20220801	15:52:50	7b520544-8229-4e96-8df0-fd0d0c19fbab	Error: Tên tài khoản đã được sử dụng!
+20220801	15:57:52	6894cd63-254e-4fef-822e-2b2f485f2975	Error: Tên tài khoản đã được sử dụng!
+20220801	15:57:57	b509e964-ac42-4012-ae39-f67fce6993ad	Error: Tên tài khoản đã được sử dụng!
+20220801	15:59:59	2cd8d936-bddd-4060-a1b2-a3d926ed54fc	Error: Tên tài khoản đã được sử dụng!
+20220801	16:01:38	3bd0fbca-cf65-490d-99d8-5be574799ba6	Error: Tên tài khoản đã được sử dụng!
+20220801	16:05:05	c76e9454-dace-4c7c-bcc2-4253c8dee40c	Error: Tên tài khoản đã được sử dụng!
+20220801	16:05:34	acab0077-b59c-4812-8ced-02ff257a8b14	Error: Tên tài khoản đã được sử dụng!
+20220801	16:07:29	70076bb4-4d4a-4c45-86a7-bd3d6bda19f2	Error: Tên tài khoản đã được sử dụng!
+20220801	16:12:05	f19b8180-14d8-4a28-b452-6d350573754a	Error: Tên tài khoản đã được sử dụng!
+20220801	16:13:12	5987506f-de35-4f57-abd3-70733621f119	Error: Tên tài khoản đã được sử dụng!
+20220801	18:40:09	8ba89c75-4a41-4992-9ffd-2fab0b3ee5b0	Error: Tên tài khoản đã được sử dụng!
+20220801	18:42:35	35a7e9cb-cfd6-4a8d-a255-e1f419e2d9e5	Error: Tên tài khoản đã được sử dụng!
+20220801	18:42:59	a876eb9c-a9b7-4e3c-971d-0f5a4a65aff9	Error: Tên tài khoản đã được sử dụng!
+20220801	18:44:04	26a18d2c-61be-4b9f-affa-9592e2d4aa65	Error: Tên tài khoản đã được sử dụng!
+20220801	18:45:45	fea345dd-84a6-40e0-8ff2-86146e63d7d0	Error: Tên tài khoản đã được sử dụng!
+20220801	18:45:46	af650cb6-946a-49c4-baa1-95862e109173	Error: Tên tài khoản đã được sử dụng!
+20220801	18:46:07	0fcfa872-9f86-4f42-9bad-622408e0c872	Error: Tên tài khoản đã được sử dụng!
+20220801	18:51:34	2a83e90b-bd48-418b-8451-d1c10cb83308	Error: Tên tài khoản đã được sử dụng!
+20220801	18:52:45	bd82a679-fd96-4e5a-8686-99f0551ec7ae	Error: Tên tài khoản đã được sử dụng!
+20220801	18:52:48	cb268f2e-3a82-4985-b7dd-0e6483512dc9	Error: Địa chỉ email đã được sử dụng!
+20220801	18:54:24	7a195917-5fed-4b03-96fa-65f41ebe6be9	Error: Địa chỉ email đã được sử dụng!
+20220801	18:58:40	7fe94f5e-1bd5-4139-951e-bcfec0884d2c	Error: Tên tài khoản đã được sử dụng!
+20220801	18:58:59	bf597dfa-7cf8-4647-976f-95958f815bb0	Error: Địa chỉ email đã được sử dụng!
+20220801	18:59:52	572d2531-0f25-471c-a07a-c5ffcdb5e50d	Error: Địa chỉ email đã được sử dụng!
+20220801	19:00:03	c6563f79-4602-4d5d-8295-6bc9d92d1699	Error: Tên tài khoản đã được sử dụng!
+20220801	19:00:11	f05d763f-52cd-49f0-be3f-6a840fa64356	Error: Tên tài khoản đã được sử dụng!
+20220801	19:02:06	556220c7-adc3-4335-84c3-b6fb4a699dbf	Error: Tên tài khoản đã được sử dụng!
+20220801	19:03:11	b3f3f573-8558-4bc8-831d-16ea4e4ca9a8	Error: Tên tài khoản đã được sử dụng!
+20220801	19:03:16	94e25fe3-2fe4-4c7d-b024-63283d2096ae	Error: Địa chỉ email đã được sử dụng!
+20220801	19:24:21	52613e74-ad9f-4bdf-bbc4-9e5ab329c3f2	Error: Địa chỉ email đã được sử dụng!
+20220801	19:25:18	9160446b-b533-4c45-b0e9-bd1211b6bcff	Error: Địa chỉ email đã được sử dụng!
+20220801	19:25:31	444f4754-9ae3-4a14-a3cf-fc0b83201d49	Error: Tên tài khoản đã được sử dụng!
+20220801	19:25:37	e50f85b5-03fb-46ab-a525-f1110a9d9339	Error: Địa chỉ email đã được sử dụng!
+20220801	19:25:42	6d5e5637-a515-4ea4-b74d-ce739997a5ef	Error: Địa chỉ email đã được sử dụng!
+20220801	19:25:45	d6398778-d47d-4de8-9292-bb51d5752a10	Error: Địa chỉ email đã được sử dụng!
+20220801	19:26:45	52aca3bb-5e29-48dd-8df5-e491e3088716	Error: Tên tài khoản đã được sử dụng!
+20220801	19:26:59	4d246226-5f12-402c-ba58-7490801e55e4	Error: Địa chỉ email đã được sử dụng!
+20220801	19:28:17	dc51fe0d-ecfd-4aba-85b7-334ec6a70b28	Error: Tên tài khoản đã được sử dụng!
+20220801	19:28:21	c45b6d8e-1b45-481e-825f-495b8fc8e709	Error: Địa chỉ email đã được sử dụng!
+20220801	19:35:36	8663baad-0d7a-4fe9-9696-42432a5113c7	Error: Tên tài khoản đã được sử dụng!
+20220801	19:35:39	08a3801c-b6ec-4283-9628-a618b5e98759	Error: Địa chỉ email đã được sử dụng!
+20220801	19:42:16	083faf5d-fed2-4e91-ab63-6dd8a8a73f04	Error: Địa chỉ email đã được sử dụng!
+20220801	19:42:49	c19bb5f0-08fd-4646-a21d-c781cb2d521d	Error: Địa chỉ email đã được sử dụng!
+20220801	19:42:58	c9a02d44-3e80-41fd-879f-cf52a4b8ea66	Error: Tên tài khoản đã được sử dụng!
+20220801	19:43:28	0c96ff98-62a5-41e7-844a-4ed92a32f5b3	Error: Tên tài khoản đã được sử dụng!
+20220801	19:44:00	cf1661c5-c989-4f9a-a3ae-334f7344e087	Error: Tên tài khoản đã được sử dụng!
+20220801	19:44:05	bdf8d9b6-4f19-4166-ac19-89ad0d82152a	Error: Địa chỉ email đã được sử dụng!
+20220801	19:44:33	9183dce2-4cec-4da8-b5e0-c568aec76754	Error: Địa chỉ email đã được sử dụng!
+20220801	19:45:18	7f8ba00d-288c-4175-ae8c-946ad438b490	Error: Địa chỉ email đã được sử dụng!
+20220801	19:45:29	988ac9d2-306d-4f0f-8c23-ab722e241c3b	Error: Địa chỉ email đã được sử dụng!
+20220801	19:46:04	ffe57f85-5fa5-4361-bb3c-8e05183d6de5	Error: Địa chỉ email đã được sử dụng!
+20220801	19:46:11	3a302e50-4ca8-4e7c-b7c1-7425a43c86a8	Error: Địa chỉ email đã được sử dụng!
+20220801	19:46:12	49cbef9e-38a6-4851-8cff-76220df3757b	Error: Địa chỉ email đã được sử dụng!
+20220801	19:46:53	86b158cb-5e44-43db-9304-d0bf9e9e4a07	Error: Địa chỉ email đã được sử dụng!
+20220801	19:46:58	b2f1498e-4359-4af2-a334-d9d051811963	Error: Tên tài khoản đã được sử dụng!
+20220801	19:47:18	2763962b-2c63-4d6c-8df8-4ff2f064a8e3	Error: Tên tài khoản đã được sử dụng!
+20220801	19:47:20	60c2aac8-b907-464f-a517-26f7fc79bf47	Error: Tên tài khoản đã được sử dụng!
+20220801	19:47:21	e5056c83-b503-4369-9c90-bc9378cee4ae	Error: Tên tài khoản đã được sử dụng!
+20220801	19:47:22	26a67b12-6105-4b1c-a4c4-9dbcac2d4cb0	Error: Tên tài khoản đã được sử dụng!
+20220801	19:47:33	afc64f34-25c5-4b6b-ba41-494f48469bec	Error: Tên tài khoản đã được sử dụng!
+20220801	19:47:34	68ed8019-63cb-4518-96cd-af4b24091cf4	Error: Tên tài khoản đã được sử dụng!
+20220801	19:47:35	67a7771c-1dd8-490b-a742-e62a6a8fbe33	Error: Tên tài khoản đã được sử dụng!
+20220801	19:47:35	18efda8a-0561-4b64-a735-d04b979b972c	Error: Tên tài khoản đã được sử dụng!
+20220801	19:47:42	e9b78325-ef00-428b-945c-217c0055e9e4	Error: Địa chỉ email đã được sử dụng!
+20220801	19:47:47	da8b1360-3217-4565-b6a1-786766986d11	Error: Địa chỉ email đã được sử dụng!
+20220801	19:49:01	80cb3d8d-7ad4-4d07-b3ce-aa968a230998	Error: Địa chỉ email đã được sử dụng!
+20220801	19:49:03	ba47f9cb-ffc5-45b3-b3a8-01f137318beb	Error: Địa chỉ email đã được sử dụng!
+20220801	20:10:47	b3e769fd-b463-4b21-ad14-0b989e3613d8	Error: Tên tài khoản đã được sử dụng!
+20220801	20:10:50	be3bb9d1-a76f-405f-b635-1528cf3293d9	Error: Địa chỉ email đã được sử dụng!
+20220801	20:25:51	e5d9e925-819e-4e7a-b107-76bc38cdad34	Error: Tên tài khoản đã được sử dụng!
+20220802	10:11:52	762d9d62-1006-48e7-a461-9fa6f697d3a3	Error: Tên tài khoản đã được sử dụng!
+20220802	10:36:53	6b23d13f-c7fe-4707-a1e3-89e0208354e4	Error: Tên tài khoản đã được sử dụng!
+20220802	20:08:42	fce761be-f876-4c80-8999-9f815b5d7162	Error: Tên tài khoản đã được sử dụng!
+20220802	20:08:45	40298bc4-6b4c-4a4b-bcfa-a2912711929a	Error: Địa chỉ email đã được sử dụng!
+20220810	19:34:42	749d8426-2c59-4498-b0a3-d7cccf3fc39c	Error: Tên tài khoản đã được sử dụng!
